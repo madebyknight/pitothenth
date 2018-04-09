@@ -1,8 +1,8 @@
+<!DOCTYPE html>
 <html>
     <head>
         <title>Just For Fun</title>
         <meta charset="utf-8">
-        
     </head>
     <body>
         <div class="container-fluid">
